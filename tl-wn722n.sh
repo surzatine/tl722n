@@ -1,6 +1,8 @@
 #!/bin/bash
 
 echo '*make sure to run sudo su '
+echo
+
 
 echo '1. Download driver for TP-LINK TL-WN722N'
 echo '2. Install driver for TP-LINK TL-WN722N'
